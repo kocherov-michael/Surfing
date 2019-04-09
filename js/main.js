@@ -1,1 +1,3 @@
-console.log('Hello Surfing!');
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+});
